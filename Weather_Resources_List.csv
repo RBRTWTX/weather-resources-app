@@ -1,0 +1,80 @@
+name,website,description,official.gov yes or no
+PRISM Climate Data,https://prism.oregonstate.edu/mtd/,Monthly climate data maps for temperature and precipitation.,No
+Penn State E-Wall,http://www.meteo.psu.edu/ewall/ewall.html,Classic weather model guidance and satellite data visualization tools.,No
+Pivotal Weather - Humidity Map,https://www.pivotalweather.com/model.php?m=hrrr&p=sfcrh,Real-time surface relative humidity maps.,No
+Windy - Earth Nullschool,"https://earth.nullschool.net/#current/particulates/surface/level/overlay=pm2.5/orthographic=-97.32,30.92,2239/loc=-97.343,30.889","Interactive weather map showing global wind, particulate, and weather patterns.",No
+Weather Graphics,https://www.weathergraphics.com/dl/,Weather analysis and forecast graphics.,No
+NOAA Daily Weather Map,https://www.wpc.ncep.noaa.gov/dailywxmap/index.html,Official daily weather maps from NOAA.,Yes
+NWS Thunderstorm Education,https://www.weather.gov/source/zhu/ZHU_Training_Page/thunderstorm_stuff/Thunderstorms/thunderstorms.htm#SEVERE,Training and resources on thunderstorms by NWS.,Yes
+Storm Prediction Center - Outlook,https://www.spc.noaa.gov/products/outlook/day1otlk.html,Official daily severe weather outlooks.,Yes
+Weather Forecast Points,https://www.weather.gov/forecastpoints,Point-based forecasts from the National Weather Service.,Yes
+Department of Commerce Weather Map,https://www.wpc.ncep.noaa.gov/dailywxmap/index.html,Official daily surface weather analysis from NOAA's Weather Prediction Center.,Yes
+Weather Learn (Thunderstorm Training),https://www.weather.gov/source/zhu/ZHU_Training_Page/thunderstorm_stuff/Thunderstorms/thunderstorms.htm#SEVERE,NWS educational resource on thunderstorms and severe weather.,Yes
+Main Weather Info (Forecast Points),https://www.weather.gov/forecastpoints?fbclid=IwZXh0bgNhZW0CMTEAAR3YDfP2xgi7G3KHoRq6QD_eJNM8RfS-qZmF--OyKNRx4qQz118IPwDR4NE_aem_AdYfUopfIr5oNRll4NMjyZeGKmvqqJicLWyyzQVYhOgKphm5tcRDVhtjyOn9Cft1_m65LNZDBoVT4yVpZYNU2xEG,Point-based forecasts and interactive map from NOAA.,Yes
+Hotseat: You Be The Forecaster!,https://www.nssl.noaa.gov/education/hotseat/,Interactive learning tool to understand storm forecasting.,Yes
+University of Washington Radar Data,https://a.atmos.washington.edu/data/data.php?loc=radar,Live radar and weather data from University of Washington Atmospheric Sciences.,No
+NOAA NWS Observations & Models,https://mag.ncep.noaa.gov/observation-type-area.php#,Observation data and model guidance from NWS.,Yes
+Surface Analysis (WPC),https://www.wpc.ncep.noaa.gov/html/sfc-zoom.php,Detailed surface analysis charts from NOAA WPC.,Yes
+Wunderground Maps,https://www.wunderground.com/maps,"Interactive weather maps including radar, temperature, and more.",No
+National Water Prediction Service (NOAA),"https://water.noaa.gov/#@=-96.401081,38.1465724,2...","Real-time streamflow, water level, and hydrologic forecast information.",Yes
+Coastal Ecosystem Maps (NOAA),https://www.ncei.noaa.gov/maps/coastal-ecosystems/viewer.htm,Visualization of coastal ecosystems and data overlays by NOAA.,Yes
+Gulf Cams and Maps,https://www.saltwater-recon.com,Live cameras and conditions along the Gulf Coast.,No
+NWS Tides,https://www.weather.gov/crp/tides,NOAA tide tables and coastal flood information.,Yes
+Coastal Data Viewer (USGS),https://txpub.usgs.gov/coastal/viewer/,Interactive coastal data viewer by USGS.,Yes
+Texas Coastal Ocean Observation Network,http://www.cbi.tamucc.edu/TCOON/,Observations of coastal conditions from TAMU-CC.,No
+Texas GIS Systems,https://tpwd.texas.gov/gis/,Geospatial data and mapping tools from Texas Parks & Wildlife.,No
+Texas Water Explorer,https://texaswaterexplorer.tnc.org/map.html,Interactive map of water resources in Texas by The Nature Conservancy.,No
+Coastal Survey Maps,https://www.charts.noaa.gov/InteractiveCatalog/nrnc.shtml,Nautical chart catalog from NOAA.,Yes
+Texas Water Temp - Aransas,https://seatemperature.info/aransas-pass-water-temperature.html,"Current sea surface temperature at Aransas Pass, TX.",No
+Pivotal Weather Max Temp Today,https://www.pivotalweather.com/maps.php?data_type=forecasts&r=conus&p=ndfd_sfctmax&ds=ndfd,Forecast max temperatures for the day using NDFD data.,No
+RAMMB Satellite Slider,https://rammb-slider.cira.colostate.edu,GOES satellite imagery viewer from Colorado State University.,No
+NOAA NWS Training - MRMS,https://vlab.noaa.gov/web/wdtd/mrms-products-guide/-/asset_publisher/IxcQMoMMU83h/,Training guide for MRMS products from NOAA.,Yes
+WeatherNerds,https://www.weathernerds.org,"Weather models, satellite loops, and storm data tools.",No
+WeatherNerds Satellite Data,https://www.weathernerds.org/satellite,Custom satellite visualization from WeatherNerds.,No
+COD NEXRAD: EWX,https://weather.cod.edu/satrad/nexrad/?parms=EWX-N0Q-1-24-100-usa-rad,Live radar from College of DuPage for South Central Texas (EWX).,No
+Advanced Hydrologic Prediction - Austin/San Antonio,https://water.noaa.gov/?wfo=ewx,Hydrologic forecast and observations for south-central Texas.,Yes
+NOAA User Defined Forecast Area,https://www.nws.noaa.gov/wtf/udaf/area/?site=ewx,Custom forecast area viewer by NWS.,Yes
+NOAA Graphical Forecast for EWX,https://graphical.weather.gov/sectors/ewx.php,Graphical forecast maps for Austin/San Antonio region.,Yes
+NWS Routine Forecasts & Products,https://www.weather.gov/ewx/forecasts,Daily forecasts and weather products from NWS Austin/San Antonio.,Yes
+NIFC Fire Info,https://www.nifc.gov/fire-information,National Interagency Fire Center information and maps.,Yes
+NSSL MRMS Viewer,https://mrms.nssl.noaa.gov/qvs/product_viewer/,View real-time multi-radar/multi-sensor products from NSSL.,Yes
+SPC Composite Map,https://www.spc.noaa.gov/exper/compmap/,Experimental composite map of severe weather parameters.,Yes
+WFO Austin/San Antonio Area Descriptors,https://www.weather.gov/ewx/areadescriptors,Definitions and geographic descriptors used in Austin/San Antonio forecasts.,Yes
+Current Dew Points (USAirNet),https://www.usairnet.com/weather/maps/current/dew-points/,Live dew point temperature maps across the U.S.,No
+National Dew Point - Mesonet,https://www.mesonet.org/weather/dewpoint-humidity/national-dewpoint-temperature,National dew point map provided by Mesonet.,No
+WeatherTap Current Temperatures,https://www.weathertap.com/aviation/image/PLOT_CURRTEMPS_US,Current surface temperature plot of the U.S.,No
+Unified Surface Analysis Manual,https://www.wpc.ncep.noaa.gov/sfc/UASfcManualVersion1.pdf,Training manual for reading surface analysis maps.,Yes
+How to Read Weather Maps – MetService,https://www.metservice.com,Educational resources on interpreting weather maps.,No
+Lecture 8 - Surface Weather Map Analysis,http://www.theweatherprediction.com/habyhints/,Lesson on analyzing surface weather maps and patterns.,No
+Daily Weather Map (Example),https://mesonet.agron.iastate.edu/vtec/#2023-O-NEW-KSHV-SV-W-0428/USCOMP-N0Q-202307162005,Archived severe weather event map from IEM Mesonet.,No
+Weather Radar Reflectivity 101,http://inthecloudhead.blogspot.com/2015/12/101-weather-radar-reflectivity.html,Guide on understanding radar reflectivity levels.,No
+RainViewer - Radar Map,https://www.rainviewer.com/weather-radar-map-live.html,Live global weather radar with animations.,No
+Weather & Radar - U.S. Map,"https://www.weatherandradar.com/weather-map?center=28.8,-97.44&zoom=6",Weather map viewer with radar and satellite overlays.,No
+Live WX Radar - Big View,https://www.livewxradar.com/big.html,Large-format live weather radar and satellite map.,No
+American Meteorological Society,https://www.ametsoc.org/index.cfm/ams/,Professional society for atmospheric scientists and meteorologists.,No
+NCEI Radar Data,https://www.ncei.noaa.gov/products/radar/next-generation-weather-radar,Access to NEXRAD radar archives and data.,Yes
+NCDC NEXRAD Data Archive,https://www.ncdc.noaa.gov/nexradinv/,Searchable NEXRAD radar inventory from NOAA’s NCDC.,Yes
+NWS Radar - Interactive Map,https://radar.weather.gov/?settings=v1,National radar viewer with interactive layers from NOAA.,Yes
+Texas Weather Center - Radar,https://www.weathercentertx.com/texas-weather-data/us-interactive-radar/future-weather-radar/,Future weather radar animations for Texas.,No
+NOAA Graphical Forecast - South Plains,https://graphical.weather.gov/sectors/sectorDay.php?sector=southplains,Graphical forecast for the South Plains region.,Yes
+Ventusky - Weather Map,https://www.ventusky.com/?p=29.467;-98.484;9&l=radar,Dynamic and interactive weather visualization site.,No
+DeepMind GraphCast AI Model,https://deepmind.google/discover/blog/graphcast-ai-model-for-faster-and-more-accurate-global-weather-forecasting/,Blog article introducing DeepMind's AI model for global weather forecasting.,No
+HRRR Rapid Refresh Model,https://rapidrefresh.noaa.gov/hrrr/,High-resolution rapid refresh weather model from NOAA.,Yes
+Western Region NWS Map,https://www.wrh.noaa.gov/map/,Interactive weather hazards and observations map from NWS.,Yes
+Satellite Visualization - LeoLabs,https://platform.leolabs.space/visualization,Live visualization of satellites and space debris.,No
+Google Groups - WeatherAmerica,https://groups.google.com/g/weatheramerica/c/DSwUPE7mkM0/m/XUlxkcMUAQAJ?pli=1,Weather discussion group on Google Groups.,No
+NOAA Atmospheric Winds (HD Winds),https://www.ospo.noaa.gov/Products/atmosphere/hdwinds/,High-density atmospheric wind products from NOAA.,Yes
+Coastal Water Temperature Guide,https://coastalwatertemperatureguide-noaa.hub.arcgis.com,Real-time NOAA map of coastal water temperatures.,Yes
+Texas Regional Rainfall,https://www.weather.gov/crp/texas_regional_rainfall,NWS rainfall totals and data across Texas.,Yes
+WPC Day 1–7 QPF,https://www.wpc.ncep.noaa.gov/qpf/day1-7.shtml,Quantitative precipitation forecasts from the Weather Prediction Center.,Yes
+iWeatherNet Severe Weather Browser,https://www.iweathernet.com/weathernet-severe-weather-browser,Map browser for monitoring severe weather risk and observations.,No
+NESDIS Home Page,https://www.nesdis.noaa.gov,NOAA satellite and earth observation data center homepage.,Yes
+CIMSS Tropical Cyclone Page,https://cimss.ssec.wisc.edu/imagery-of-the-week/,Research imagery of tropical cyclones and analysis from CIMSS.,No
+Woods Hole Hurricane Info,https://www.whoi.edu,Woods Hole Oceanographic Institution’s research on hurricanes and ocean science.,No
+Center for Science Education Hurricanes,https://scied.ucar.edu,Hurricane educational content for students and educators.,No
+LuckGrib Hurricane Tracker,https://www.luckgrib.com,Marine weather and hurricane tracking software.,No
+Weather Wiz Kids,https://www.weatherwizkids.com,Weather learning resources for children.,No
+WPC Met Watch,https://www.wpc.ncep.noaa.gov/html/sfc2.shtml,Weather Prediction Center surface and mesoscale discussions.,Yes
+WPC Surface Analysis Archive,https://www.wpc.ncep.noaa.gov/sfc/UASfcManualVersion1.pdf,Archive and manual for surface weather analyses.,Yes
+National Forecast Maps,https://www.weather.gov,National Weather Service forecast and analysis maps.,Yes
+NWS Severe Weather Forecasting Tip Sheet,https://www.weather.gov/media/lmk/soo/SvrWx_Fcstg_TipSheet.pdf,Quick-reference tip sheet for severe weather forecasting.,Yes
